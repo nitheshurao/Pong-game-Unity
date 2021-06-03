@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{1061FFFF-108A-1B5C-FE9B-902B6451CC87}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Paddle.cs">
+    <Files>
+      <File FileName="Assets/Script/ScoringZone.cs" Line="9" Column="25" />
+      <File FileName="Assets/Script/GameManager.cs" Line="11" Column="34" />
+      <File FileName="Assets/Script/Ball.cs" Line="29" Column="11" />
+      <File FileName="Assets/Script/Paddle.cs" Line="15" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Pong unity game 2d" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4faef741-04d0-4d17-972e-96fc2cd5c5c7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
